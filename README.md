@@ -41,7 +41,7 @@ This is a command-line To-Do List Manager built in Python that allows users to m
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/br-imen/simple-to-do.git>
    cd <your-repo-directory>
    ```
 
